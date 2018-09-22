@@ -5,7 +5,7 @@ import java.util.*;
       Scanner sc=new Scanner(System.in);
       System.out.println("Enter A NUmber:");
       int a=sc.nextInt();
-      int b,c=0;
+      int b,c=1;
       while(a>0)
       {
       b=a%10;
